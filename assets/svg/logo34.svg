@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+	<title>logo33</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 74px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<text id="FD" style="transform: matrix(1,0,0,1,-2,60.328);paint-order:stroke fill markers;stroke: #000000;stroke-width: 6;stroke-linejoin: round;" >
+		<tspan x="0" y="0" class="t0">F</tspan><tspan  y="0" class="t0">D
+</tspan>
+	</text>
+</svg>

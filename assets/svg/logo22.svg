@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+	<title>مشروع جديد</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #0000ff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t1 { font-size: 24px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t2 { font-size: 24px;fill: #ff0000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<text id="F X" style="transform: matrix(5.818,0,0,5.818,-5.336,120.17)" >
+		<tspan x="0" y="0" class="t0">F</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t2">X
+</tspan>
+	</text>
+</svg>

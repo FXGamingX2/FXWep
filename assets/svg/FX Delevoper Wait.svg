@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+	<title>logo34</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 74px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<g id="FD">
+		<text id="F" style="transform: matrix(.579,0,0,.579,.95,42.639);paint-order:stroke fill markers;stroke: #000000;stroke-width: 12;stroke-linejoin: round;" >
+			<tspan x="0" y="0" class="t0">F
+</tspan>
+		</text>
+		<text id="D
+" style="transform: matrix(.539,0,0,.539,29.281,41.92);paint-order:stroke fill markers;stroke: #000000;stroke-width: 12;stroke-linejoin: round;" >
+			<tspan x="0" y="0" class="t0">D
+</tspan>
+		</text>
+	</g>
+</svg>
